@@ -1,0 +1,3 @@
+Console Commands - to try out new things
+
+document.querySelector('h1').style.color="Blue" - to change the colour under h1 tag to blue, from console
